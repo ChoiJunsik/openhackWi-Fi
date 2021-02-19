@@ -10,7 +10,7 @@
 - `주관` : 소프트웨어중심대학 협의회 / 정보과학회 오픈소스연구회
 - `Markdown 작성자`: RyanKor(Github Name) / 김승태 (Openhack 4기 참여자)
 
-## TEAM WICO - 머신러닝을 활용한 Wi-Fi 범위 내 접속한 사용자 인원 추산 
+## TEAM WICO - MAC주소 기반 802.11 망내 유동인원 추산 웹 프로젝트
 
 ![image](https://user-images.githubusercontent.com/40455392/60310430-dab14580-998d-11e9-8901-261d2fdec043.png)
 
